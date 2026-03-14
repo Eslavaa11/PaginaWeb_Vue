@@ -32,4 +32,4 @@ https://tienda-vue-five.vercel.app
 
 ## Autor
 
-Proyecto realizado por **Andres Eslava** como parte de un trabajo académico.
+Proyecto realizado por **Andres Eslava**
