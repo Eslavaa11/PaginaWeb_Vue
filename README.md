@@ -1,48 +1,35 @@
-# tiendaVue
+# Mercado Negro D.C
 
-This template should help get you started developing with Vue 3 in Vite.
+Este proyecto es una tienda web hecha con **Vue y Vite** donde se pueden ver productos, filtrarlos y agregarlos a un carrito de compras. La idea del proyecto fue aplicar la lógica vista en clase usando componentes, filtros y manejo de datos dentro de una aplicación web.
 
-## Recommended IDE Setup
+La tienda permite buscar productos, filtrarlos por categoría, cambiar el color de algunos artículos y agregarlos al carrito. También tiene modo claro y modo oscuro para cambiar la apariencia de la página.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Tecnologías utilizadas
 
-## Recommended Browser Setup
+- Vue
+- Vite
+- HTML
+- CSS
+- JavaScript
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+## Funcionalidades principales
 
-## Type Support for `.vue` Imports in TS
+- Mostrar productos en tarjetas
+- Buscar productos
+- Filtrar por categoría
+- Seleccionar colores en algunos productos
+- Agregar productos al carrito
+- Cambiar la cantidad de productos en el carrito
+- Modo claro y oscuro
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+## Demo del proyecto
 
-## Customize configuration
+GitHub Pages  
+https://eslavaa11.github.io/PaginaWeb_Vue/
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+Vercel  
+https://tienda-vue-five.vercel.app
 
-## Project Setup
+## Autor
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+Proyecto realizado por **Andress Guzmán** como parte de un trabajo académico.
